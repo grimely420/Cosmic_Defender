@@ -1,0 +1,42 @@
+# Environment configuration
+config.env
+.env
+
+# Database dumps and SQL files
+*.sql
+*.sql.gz
+*.dump
+
+# Logs
+error_log
+*.log
+logs/
+*.error
+
+# Backup files
+*.bak
+*.backup
+*.old
+*~
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+temp/
+tmp/
+
+# Session files
+sessions/
+
+# Cache
+cache/
+*.cache
